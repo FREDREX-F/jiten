@@ -1,0 +1,15 @@
+{
+    "require": {
+        "jenssegers/mongodb": "^2.3",
+        "fruitcake/laravel-cors": "^1.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": true
+        }
+    },
+    "psr-4": {
+    "Jenssegers\\Mongodb\\": "vendor/jenssegers/mongodb/src/"
+}
+
+}

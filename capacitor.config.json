@@ -1,0 +1,6 @@
+{
+  "appId": "org.jiten.app",
+  "appName": "jiten",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

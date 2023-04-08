@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">jiten-dictionary</string>
+    <string name="title_activity_main">jiten-dictionary</string>
+    <string name="package_name">org.jiten.app</string>
+    <string name="custom_url_scheme">org.jiten.app</string>
+</resources>
